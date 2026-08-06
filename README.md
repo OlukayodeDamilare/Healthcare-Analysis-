@@ -13,14 +13,14 @@ Hospital networks and healthcare administrators rely on analytics to understand 
 ## Objectives
 The analysis aims to:
 - Track total revenue, billing per patient, and year over year growth
-- Identify top performing hospitals and revenue-driving medical conditions
+- Identify top performing hospitals and revenue driving medical conditions
 - Analyze revenue by admission type and insurance provider
 - Understand patient demographics like age, gender, blood type, and condition mix
 - Monitor operational indicators like emergency admission rate, abnormal test rate, and length of stay
 - Support better staffing, capacity planning, and payer strategy
 
 ## Key Business Questions
-- What is total revenue, and how has it grown year-over-year?
+- What is total revenue, and how has it grown year over year?
 - Which hospitals and medical conditions generate the most revenue?
 - How does revenue break down by admission type and insurance provider?
 - What do patient demographics (age, gender, blood type) look like across the network?
